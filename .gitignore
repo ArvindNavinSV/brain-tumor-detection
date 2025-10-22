@@ -1,13 +1,4 @@
-# Ignore data and large files
-data/
-*.nii
-*.png
-*.jpg
-*.pt
-*.pth
-*.zip
-
-# System / cache / Jupyter
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
+data/ 
+models/ 
+outputs/ 
+__pycache__/ 
